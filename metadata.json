@@ -1,0 +1,7 @@
+{
+  "name": "Hunonic Mini - Công tắc Thông minh",
+  "description": "Landing page chuyên nghiệp cho Công tắc Thông minh Hunonic Mini - Giải pháp nâng cấp nhà thông minh không cần đục phá.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
