@@ -5,19 +5,19 @@ const scenarios = [
     title: "Hẹn giờ bình nóng lạnh",
     description: "Tự động bật trước khi về nhà, tự động tắt sau 30 phút. An toàn tuyệt đối, không lo quên tắt gây tốn điện.",
     icon: <Clock className="w-8 h-8" />,
-    img: "https://picsum.photos/seed/bathroom/600/400"
+    img: "https://i.postimg.cc/8zNfrDcB/exp_heater.jpg"
   },
   {
     title: "Tự động bật đèn sân vườn",
     description: "Hẹn giờ bật lúc 18h và tắt lúc 6h sáng. Nhà luôn sáng đèn dù bạn vắng nhà, tăng cường an ninh.",
     icon: <Sun className="w-8 h-8" />,
-    img: "https://picsum.photos/seed/garden/600/400"
+    img: "https://i.postimg.cc/jS8sMrqC/exp-garden.jpg"
   },
   {
     title: "Điều khiển bằng giọng nói",
     description: "Tương thích hoàn toàn với Google Assistant và Alexa. Chỉ cần nói 'Tắt đèn phòng khách', mọi thứ sẽ thực hiện ngay lập tức.",
     icon: <Mic className="w-8 h-8" />,
-    img: "https://picsum.photos/seed/voice/600/400"
+    img: "https://i.postimg.cc/PJ9tdWcs/exp-voice.jpg"
   }
 ];
 

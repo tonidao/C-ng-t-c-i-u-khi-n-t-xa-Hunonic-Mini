@@ -54,7 +54,7 @@ export default function Hero() {
               className="relative z-10"
             >
               <img 
-                src="/product-image.jpg" 
+                src="https://i.postimg.cc/XNKbDHMM/Công_tắc_điều_khiển_từ_xa_Hunonic_Mini_Product_image.jpg" 
                 onError={(e) => {
                   e.currentTarget.src = "https://picsum.photos/seed/smarthome/800/800";
                 }}
