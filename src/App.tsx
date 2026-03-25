@@ -38,8 +38,8 @@ export default function App() {
           <Installation />
         </div>
         <Trust />
-        <Pricing />
         <SocialProof />
+        <Pricing />
         <OrderForm />
       </main>
 

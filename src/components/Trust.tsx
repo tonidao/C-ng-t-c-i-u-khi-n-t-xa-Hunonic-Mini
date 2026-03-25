@@ -13,7 +13,7 @@ const trustItems = [
   },
   {
     icon: <MapPin className="w-12 h-12" />,
-    title: "Make in Vietnam",
+    title: "Made in Vietnam",
     desc: "Sản phẩm được nghiên cứu và sản xuất 100% tại Việt Nam."
   },
   {

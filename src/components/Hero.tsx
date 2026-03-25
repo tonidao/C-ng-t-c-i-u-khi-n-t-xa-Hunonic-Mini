@@ -13,7 +13,7 @@ export default function Hero() {
               transition={{ duration: 0.5 }}
             >
               <span className="inline-block px-4 py-1 rounded-full bg-hunonic-green/10 text-hunonic-green font-semibold text-sm mb-6">
-                Make in Vietnam - Bảo hành 12 tháng
+                Made in Vietnam - Bảo hành 12 tháng
               </span>
               <h1 className="text-4xl md:text-6xl font-black leading-tight mb-6 text-gray-800">
                 Biến công tắc thường thành <span className="text-hunonic-green">thông minh</span> chỉ trong 3 phút
